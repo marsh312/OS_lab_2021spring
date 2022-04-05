@@ -1,5 +1,5 @@
 # OS_lab_2021spring
-lyk班的OS实验2021春Cancel changes
+lyk班的OS实验_2021春
 
 **lab1** 编译Linux内核，通过qemu+gdb调试，掌握Linux命令<br>
 **lab2** 编写Linux系统调用，完成一个简单的Linux Shell <br>
