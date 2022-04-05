@@ -62,7 +62,7 @@ static int lab3_bonus_init(void){
 }
 
 static void lab3_bonus_exit(void){
-	printk(KERN_ALERT"lab3 bonus exit!\n");
+	 printk(KERN_ALERT"lab3 bonus exit!\n");
 }
 
 
